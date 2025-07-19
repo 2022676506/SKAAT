@@ -1,0 +1,5 @@
+Type,Point,From,To,HeightDiff,Elevation
+BM,BM1,BM1,A,1.20,100.00
+Unknown,A,A,B,1.30,
+Unknown,B,B,C,0.90,
+BM,BM2,C,BM2,-2.50,102.00

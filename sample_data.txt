@@ -1,0 +1,14 @@
+[benchmarks]
+BM1,100.00
+BM2,102.00
+
+[unknowns]
+A
+B
+C
+
+[observations]
+BM1,A,1.20
+A,B,1.30
+B,C,0.90
+C,BM2,-2.50
